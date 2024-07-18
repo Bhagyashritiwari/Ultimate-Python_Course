@@ -1,0 +1,14 @@
+marks = {"Bani" : 100,
+     "Nisar" : 99,
+     "Sorabh" : 23}
+
+print(marks, type(marks))
+
+print(marks.items()) # items methods to get key pair
+ 
+print(marks.keys()) # to get key values only
+
+marks.update ({"Bani" :44, "Karthik": 55})
+print(marks)
+
+print(marks.get("Sarita"))
