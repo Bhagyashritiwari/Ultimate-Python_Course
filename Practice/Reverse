@@ -1,0 +1,5 @@
+name = "Bhagyshri"
+chane_list = list(name)
+reverse_name = name[::-1]
+print(reverse_name)
+
