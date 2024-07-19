@@ -3,3 +3,4 @@ marks = {"Bani" : 100,
      "Sorabh" : 23}
 
 print(marks, type(marks))
+print(marks["Nisar"])
