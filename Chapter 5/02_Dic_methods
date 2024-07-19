@@ -11,4 +11,4 @@ print(marks.keys()) # to get key values only
 marks.update ({"Bani" :44, "Karthik": 55})
 print(marks)
 
-print(marks.get("Sarita"))
+print(marks.get("Sarita")) # To check the key existions 
