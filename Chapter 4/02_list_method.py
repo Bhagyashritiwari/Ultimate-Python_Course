@@ -15,7 +15,7 @@ print(l2)
 #• l1.insert(3,8): This will add 8 at 3 index
 print("--------------------")
 l3 = [45,56,56,78,67,90]
-l3.insert(994, 9999)# i insert 9999 string in 4 index
+l3.insert(4, 9999)# i insert 9999 string in 4 index
 print(l3)
 
 #• l1.pop(2): Will delete element at index 2 and return its value.
