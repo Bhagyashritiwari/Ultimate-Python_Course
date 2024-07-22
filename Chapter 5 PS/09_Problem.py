@@ -2,3 +2,5 @@
 
 s = {8, 7, 12, "Bani", [1,2]}
 print(s)
+
+#No i set we not use list 
