@@ -1,0 +1,6 @@
+s = set()
+s.add("9")
+s.add(9.0)
+s.add(9)
+print(s)
+print(len(s))
