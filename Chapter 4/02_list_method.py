@@ -13,19 +13,20 @@ l2.reverse()
 print(l2)
 
 #• l1.insert(3,8): This will add 8 at 3 index
-l3 = [45,56,56,78,67]
-l3.insert(4, 9999)# i insert 9999 string in 4 index
+print("--------------------")
+l3 = [45,56,56,78,67,90]
+l3.insert(994, 9999)# i insert 9999 string in 4 index
 print(l3)
 
 #• l1.pop(2): Will delete element at index 2 and return its value.
-
+print("--------------------")
 l4 =[45,566,355,54475,5456]
 print(l4.pop(4))# in list index 4 pop out 
 print(l4)
 
 
 #l1.remove(21): Will remove 21 from the list. 
-
+print("--------------------")
 l5= [89,778,9878,21,43345]
 l5.remove(21)
 print(l5)
