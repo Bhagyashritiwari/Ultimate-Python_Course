@@ -2,8 +2,8 @@
 
 post = input("Enter the post:")
 
-if("Bani".lower in post.lower):
-    print("This post is all about Bani")
+if("Bani"and "Nisar".lower() in post.lower()): # by using lower() in python we are able to print lower case string bani
+    print("This post is all about Bani, and nisar")
 
 else:
     print("This post is not about the Bani")    
