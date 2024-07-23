@@ -39,3 +39,4 @@ print("False and False is", False and False)
 
 
  #'Not' work for signle operant
+ #Convert true to false and false to true
