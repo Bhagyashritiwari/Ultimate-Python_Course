@@ -3,8 +3,9 @@
 # ***
 # ***** for n = 3
 
-n = int(input("Enter star"))
+n = int(input("Enter star row Count:"))
 for i in range(1, n+1):
-    print("*" ,n-1)
-    print("***")
+    print(" "*(n-i), end="")
+    print("*"* (2*i-1), end="")
+    print("")
 
