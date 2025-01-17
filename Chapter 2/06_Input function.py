@@ -2,7 +2,7 @@ t = input("Enter number  1:")
 c = input("Enter number  2:") 
 
 
-print("Number a is: ", t) # print value duplicateuse alt+shift and down ero key
+print("Number a is: ", t) # print value duplicate use alt+shift and down ero key
 print("Number a is: ", c)
 
 print(t+c) #take this numbers as a string,
