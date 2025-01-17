@@ -19,3 +19,5 @@ a = "31.2" #type string becouse using "" for string
 b = float(a) # a but the type of should be float
 t= type(b)
 print(t)
+
+
