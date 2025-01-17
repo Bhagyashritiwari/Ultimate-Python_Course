@@ -16,7 +16,7 @@ print(b)
 d= 5==6
 print(d)
 
-f= 8!=10
+f= 8!= 10  # !use for 8 is not equal to 10 
 print(f)
 
 
