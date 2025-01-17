@@ -9,4 +9,4 @@ print(len(name))
 print(name.endswith("hre"))
 
 #3- Startswith
-print(name.startswith("bha")) # b noe same as B so here sensitivie case 
+print(name.startswith("bha")) # b noe same as B so here sensitivie case is there
