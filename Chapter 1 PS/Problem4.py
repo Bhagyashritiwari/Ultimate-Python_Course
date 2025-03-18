@@ -6,7 +6,7 @@
 import os
 
 # Specify the directory path
-directory_path = 'E:\\SDE'
+directory_path = 'E:\\Bani test folder'
 
 # List all files and directories in the specified path
 contents = os.listdir(directory_path)
